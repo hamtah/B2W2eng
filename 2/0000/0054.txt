@@ -1,40 +1,71 @@
-What language would you like the\xfffePokémon names to be?\xf000븀\x0000
+What language would you like the \xfffePok é mon names to be? \xf000 븀 \x0000
 English
 Japanese
-The game will be played in English.\xf000븁\x0000
-The game will be played in Japanese.\xf000븁\x0000
-Please wait until save\xfffedata has been created.
-Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
-My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
-That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
-Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
-Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
-Are you a boy?\xfffeOr a girl?\xf000븁\x0000
-You're a boy, right?\xf000븁\x0000
-You're a girl, right?\xf000븁\x0000
+The game will be played in English... \xf000 븁 \x0000
+The game will be played in Japanese... \xf000 븁 \x0000
+Please wait until save \xfffedata has been created.
+Hi there! \xf000 븁 \x0000\xfffeWelcome to the world of Pokémon! \xf000 븁 \x0000
+My name is Professor Juniper. \xfffeEveryone calls me the Pok é mon Professor! \xf000 븁 \x0000
+That's right! This world is widely \xfffeinhabited by mysterious creatures \xf000 븀 \x0000\xfffecalled Pokémon! \xf000 븁 \x0000
+Pok é mon have mysterious powers... \xfffeThey come in many shapes \xf000 븀 \x0000\xfffeand live in many different places... \xf000 븁 \x0000\xfffeWe humans live happily with Pokémon! \xfffeLiving and working together, \xf000 븀 \x0000\xfffewe complement each other... \xf000 븁 \x0000\xfffeWe help each other out to \xfffeaccomplish difficult tasks... \xf000 븁 \x0000\xfffeHaving Pok é mon battle one another \xfffeis particularly popular, and it deepens \xf000 븀 \x0000\xfffethe bonds between people and Pokémon... \ xf000 븀 \x0000\xfffeAnd that is why I research Pokémon... \xf000 븁 \x0000
+Well, that's enough from me... \xfffeCould you tell me about yourself? \xf000 븁 \x0000
+Are you a boy? \xfffeOr a girl? \xf000 븁 \x0000
+You're a boy, right? \xf000 븁 \x0000
+You're a girl, right? \xf000 븁 \x0000
 Boy
 Girl
-I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+I'd like to know your name... \xf000 븁 \x0000\xfffePlease tell me... \xf000 븁 \x0000
+Your name is \xf000 ā \x0001\x0000? \xf000 븁 \x0000
+Your name is \xf000 ā \x0001\x0000? \xf000 븁 \x0000
 Yes
 No
-So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
-それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
-かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
-ヒュウ
-デフォ１
-デフォ２
-じぶんできめる
-\xf000Ā\x0001\x0001　ね\xfffeそれで　あっている？\xf000븁\x0000
-こちらの　おとこのこは　チェレン\xf000븁\x0000\xfffeきむずかしい　ところも　あるけれど\xfffeまっすぐな　おとこのこ\xf000븁\x0000
-こちらの　おんなのこは　ベル\xf000븁\x0000\xfffeちょっと　マイペース　だけど\xfffeがんばりやの　おんなのこ\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeこれから　あなたを　たよりにして\xfffeだいじな　だいじな\xf000븀\x0000\xfffeポケモンを　プレゼントします\xf000븁\x0000
-あなたが　パートナーとなる\xfffeポケモンを　えらんだ　そのときから\xf000븁\x0000\xfffeあなただけの\xfffeたびものがたりが　はじまります\xf000븁\x0000\xfffeこの　たびで　あなたは\xfffeかずおおくの　ポケモン\xf000븀\x0000\xfffeいろんな　かんがえの　ひとと\xf000븀\x0000\xfffeであい　ふれあうでしょう！\xf000븁\x0000\xfffeその　さまざまな　であいから\xfffeあなただけの　たいせつな　ものを\xf000븀\x0000\xfffeぜひ　みつけてほしい……\xf000븁\x0000\xfffeそう！　たくさんの　ひとびとや\xfffeポケモンと　ふれあい\xf000븀\x0000\xfffeじぶんじしんを　せいちょう　させる\xf000븁\x0000\xfffeそれが　この　ぼうけんの\xfffeもっとも　おおきな　もくてきです\xf000븁\x0000\xfffeそれでは　いきましょう！\xfffeポケットモンスターの　せかいへ！\xf000븁\x0000
-ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれていますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
-ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+So your name's \xf000 ā \x0001\x0000.\xfffeWhat a wonderful name! \xf000 븁 \x0000
+So \xfffe together with you always introduce anew Dai who are \xf000 븀 \x0000\xfffe's \xf000 븁 \x0000
+So next is \xfffe your guess about the appointed effective \xf000 븀 \x0000\xfffe my neighbor of you were no onii-San \xf000 븁 \x0000
+His name also \xfffe how is teaches \xf000 븁 \x0000
+Heartfelt
+Default 1
+Default 2
+Decided by
+guess \xf000 ā \x0001\x0001 \xfffe that the right? \xf000 븁 \x0000
+But Celine \xf000 븁 \x0000\xfffe and Dour some big boy here is a straight \xfffe young \xf000 븁 \x0000
+This girl is my pace a little Bell \xf000 븁 \x0000\xfffe \xfffe unshuu of girl \xf000 븁 \x0000
+\xf000 ā \x0001\x0000！ \xf000 븁 \x0000\xfffe \xf000 븁 \x0000, presents the important \xfffe important \xf000 븀 \x0000\xfffe Pokemon to your reliance
+Since then chose \xfffe Pokemon you become partners with \xf000 븁 \x0000\xfffe even begin that you just \xfffe went \xf000 븁 \x0000\xfffe \xfffe かずおおく in this each time you Pokemon \xf000 븀 \x0000\xfffe AI in \xf000 븀 \x0000\xfffe and many matrons who would interact! \xf000 븁 \x0000\xfffe from various deai \xfffe the most important thing for you just \xf000 븀 \x0000\xfffe please I want you to find...... \xf000 븁 \x0000\xfffe it! Fureai \xfffe Pokemon and lots of people \xf000 븀 \x0000\xfffe \xf000 븁 \x0000\xfffe that they じぶんじしん it justified this Percy \xfffe is big what \xf000 븁 \x0000\xfffe will now! \xfffe Pokemon world to! \xf000 븁 \x0000
+Just wait... \xfffe from now things are two
+I-to! \xfffe and okay with it! \xf000 븁 \x0000
+Important! \xfffe another Pokémon report is written as \xfffe adventure begins from this cannot anyway report in \xfffe and China \xfffe? yet?
+Begin the adventure
+Back to the menu
+Skip the demo?
+
+GitHub Links
+
+GitHub
+About
+Blog
+Features
+Contact & Support
+Training
+GitHub Enterprise
+Site Status
+
+Tools
+Gauges: Analyze web traffic
+Speaker Deck: Presentations
+Gist: Code snippets
+GitHub for Mac
+GitHub for Windows
+Issues for iPhone
+Job Board
+
+Extras
+GitHub Shop
+The Octodex
+
+Documentation
+GitHub Help
+Developer API
+GitHub Flavored Markdown
+GitHub Pages
+
