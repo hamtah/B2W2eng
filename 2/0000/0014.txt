@@ -1,56 +1,56 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
-Release this Pokémon?
-\xf000Ă\x0001\x0000 was released.
-Bye-bye　\xf000Ă\x0001\x0000!
+\xf000 Ă \x0001\x0000What to do?
+Mark your
+This Pokémon release?
+\xf000 Ă \x0001\x0000 was released.
+Bye-bye \xf000 Ă \x0001\x0000!
 Your party's full!
 That's your last Pokémon!
 What do you want to do?
-Jump to which Box?
+Jump to which \xfffeBox?
 Please pick a theme.
 Pick the wallpaper.
 Continue Box operations?
 The Box is full.
 The Bag is full.
-Took the \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 is now being held.
+Took the \xf000 ĉ \x0001\x0000.
+\xf000 ĉ \x0001\x0000 is now held.
 Which one will you take?
 Place it in which Box?
-もちものなし
+No もちもの
 ♂
 ♀
-Take this \xf000ĉ\x0001\x0000?
+Take this \xf000 ĉ \x0001\x0000?
 Mail can't be taken away.
-\xf000ĉ\x0001\x0000 is selected.
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag.
+\xf000 ĉ \x0001\x0000 is selected.
+Put away \xf000 ĉ \x0001\x0000?
+\X0001\x0000 ĉ in the Bag placed \xf000.
 It can hold an item.
 Please remove the Mail.
 You can't release an Egg.
-がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000 came back!
+にがせません キュレム you がったい are!
+\xf000 Ă \x0001\x0000 came back!
 Was it worried about you?
 An Egg can't hold an item.
 Touch the Mark!
-DEPOSIT POKÉMON
-WITHDRAW POKÉMON
+POKÉMON DEPOSIT
+POKÉMON WITHDRAW
 The Box is full.
 Your party's full!
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
+POKÉMON DEPOSIT
+POKÉMON WITHDRAW
+POKÉMON MOVE
 MOVE ITEMS
 BATTLE BOX
 SELECT A SLEEPY POKÉMON
 Mail cannot be moved!
-It cannot hold \xf000ĉ\x0001\x0000!
+It cannot hold \xf000 ĉ \x0001\x0000!
 It has Mail!
-You're out of Pokémon that can fight!
+You're out of Pok é mon that can fight!
 Mail cannot be moved!
 It cannot hold Mail here.
 Eggs cannot be selected!
-\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
-This Pokémon doesn't seem\xfffesleepy now.
-Select another Pokémon?
-Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
-Your Battle Box is locked.\xfffeItems cannot be given or taken.
+\xf000 Ă \x0001\x0000 will be tucked in... \xfffeOK?
+This Pok é mon doesnt seem \xfffesleepy now.
+Another Pokémon select?
+Your Battle Box is locked... \xfffeYou cannot move your Pokémon.
+Your Battle Box is locked... \xfffeItems cannot be given or taken.
