@@ -1,4 +1,4 @@
-You can change the language of the game.\xfffeDo you want to play in English?\xf000븀\x0000\xfffeOr do you want to play in Japanese?\xf000븁\x0000
+What language would you like the\xfffePokémon names to be?\xf000븀\x0000
 English
 Japanese
 The game will be played in English.\xf000븁\x0000
